@@ -1,0 +1,54 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+
+.titulo-central{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+em strong{/*para darle color a un obgetivo en especifico se llama a su etiqueta padre o la que esta primero en la linea de codigo   */
+    color: red;
+}
+
+#mision{
+    font-size: 20px
+}
+
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+
+
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;/* Aca habilitamos que la edicion de la ubicacion sea posible*/
+    vertical-align: top;
+    width:20%;
+    margin-right: 15%;
+
+}
+
+.imagenDiferenciales{ /*el punto se hace para seleccionar algo especificamente dentro de html y con css se modifica*/
+    width: 50%;
+}
+
